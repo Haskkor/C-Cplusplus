@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1324560677 source:e:\c\récupérer ip\main.c
+	<stdio.h>
+	<conio.h>
+	<winsock2.h>
+
+1019849486 source:e:\c\récupérer ip\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1048519454 e:\c\récupérer ip\conio.h
+	<stdio.h>
+

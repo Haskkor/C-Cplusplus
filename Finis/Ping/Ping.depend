@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1324651651 source:e:\c\ping\main.c
+	<winsock2.h>
+	<Iphlpapi.h>
+	<Icmpapi.h>
+	<stdio.h>
+
+1324650420 e:\c\ping\icmpapi.h
+
+1324651652 source:c:\documents and settings\cer3100426\mes documents\prive\c\ping\main.c
+	<winsock2.h>
+	<Iphlpapi.h>
+	<Icmpapi.h>
+	<stdio.h>
+

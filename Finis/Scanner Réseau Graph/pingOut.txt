@@ -1,0 +1,7 @@
+
+Envoi d'une requˆte 'ping' sur 165.7.122.12 avec 32 octets de donn‚esÿ:
+
+D‚lai d'attente de la demande d‚pass‚.
+
+Statistiques Ping pour 165.7.122.12:
+    Paquetsÿ: envoy‚s = 1, re‡us = 0, perdus = 1 (perte 100%),

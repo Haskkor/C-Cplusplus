@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1328264227 source:c:\documents and settings\cer3100426\mes documents\prive\c\chaînes de caractères dynamiques\sous-programmes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sous-programmes.h"
+
+1328264560 source:c:\documents and settings\cer3100426\mes documents\prive\c\chaînes de caractères dynamiques\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sous-programmes.h"
+
+1328095550 c:\documents and settings\cer3100426\mes documents\prive\c\chaînes de caractères dynamiques\sous-programmes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1328263838 c:\documents and settings\cer3100426\mes documents\prive\c\chaînes de caractères dynamiques\sous-programmes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

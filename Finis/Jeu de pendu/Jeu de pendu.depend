@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1322647252 source:c:\documents and settings\cer3100426\mes documents\prive\c\jeu de pendu\sp.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"SP.h"
+
+1322647255 source:c:\documents and settings\cer3100426\mes documents\prive\c\jeu de pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"SP.h"
+	"dico.h"
+
+1322647254 c:\documents and settings\cer3100426\mes documents\prive\c\jeu de pendu\sp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1322555618 source:c:\documents and settings\cer3100426\mes documents\prive\c\jeu de pendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1322499202 c:\documents and settings\cer3100426\mes documents\prive\c\jeu de pendu\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

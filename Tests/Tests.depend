@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1325501107 source:c:\documents and settings\cer3100426\mes documents\prive\c\tests\main.c
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	<dirent.h>
+

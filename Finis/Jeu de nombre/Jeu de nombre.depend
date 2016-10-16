@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1321612084 source:c:\documents and settings\cer3100426\mes documents\prive\c\jeu de nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1321612086 source:e:\c\jeu de nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
